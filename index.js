@@ -1,0 +1,5 @@
+console.log('hello')
+requestAnimationFrame('./anu')
+console.log('hello')
+requestAnimationFrame('./vaishu')
+console.log('hello')
